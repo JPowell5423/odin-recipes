@@ -1,0 +1,32 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    color: red;
+    font-size: xx-large;
+    font-size: 75px;
+}
+
+ul {
+    background: #3399ff;
+    padding: 20px;
+  }
+
+ul li{
+    background: #cce5ff;
+  color: darkblue;
+  margin: 5px;}
+
+  ol{
+    background-color: rgb(48, 48, 204);
+    padding: 20px;
+  }
+
+  ol li{
+    background-color:rgb(65, 32, 32);
+    color: gold;
+    margin: 5px;
+  }
